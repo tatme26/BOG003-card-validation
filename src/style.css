@@ -1,0 +1,44 @@
+* { 
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+html{
+    font-size:62.5;
+}
+header{
+    background-image:url(https://image.freepik.com/foto-gratis/retrato-hermosa-joven-asiatica-usar-tarjeta-credito-laptop-compras-linea_74190-10339.jpg);
+    padding:9rem;
+}
+
+main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", "Verdana", "sans-serif";
+    text-align: center;
+}
+
+h1{ color:black;
+}
+
+BODY {
+    text-align: center
+}
+
+#PagB{
+    display: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", "Verdana", "sans-serif";
+    text-align: center;
+}
+
+
+footer{
+    margin:5% 0 5% 0
+    background-color #ff8000;
+    font-family: "candara";
+    font-size: 1.1rem;
+    color: #ebebf0;
+    text-align: center;
+}
+PagC {
+    display: none;
+  }
